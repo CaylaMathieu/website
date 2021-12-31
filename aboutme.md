@@ -8,12 +8,10 @@ subtitle:
 
 During my career, I have shown a great interest in signalling and regulatory mechanisms controlling cell differentiation and adaptation of unicellular parasites. 
 
-I joined the Pasteur Institute with a DIM MalInf Fellowship to perform my PhD, under the supervision of Dr. Gerald Spath, to study the role of protein kinases in Leishmania parasites. 
+I joined the Pasteur Institute with a DIM MalInf Fellowship to perform my PhD, under the supervision of Dr. Gerald Spath and co-supervision of Dr Najma Rachidi, to study the role of protein kinases in _Leishmania_ parasites. 
 I performed a structure/function analysis of a protein kinase and studied its role in cellular differentiation. 
 
-I then joined the laboratory of Prof. Keith Matthews at the University of Edinburgh, with a Marie Curie-Sklodowska Fellowship, to characterise protein kinases implicated in the quorum−sensing differentition of the parasite T. brucei. During this PostDoc, I successfully lead several projects, collaborated and train Honours, Master and PhD students. I developed new enzymatic assays and pipelines to study the role of protein kinases as well as identifying molecular pathways regulating cellular differentiation of the mammalian blood stage of the parasite. 
-
-The experience and expertise I have acquired have now inspired me in my choice to pursue new exciting and relevant questions as an independent researcher.
+I then joined the laboratory of Prof. Keith Matthews at the University of Edinburgh, with a Marie Curie-Sklodowska Fellowship, to characterise protein kinases implicated in the quorum−sensing differentition of the parasite _T. brucei_. During this PostDoc, I successfully lead several projects, collaborated and train Honours, Master and PhD students. I developed new enzymatic assays and pipelines to study the role of protein kinases as well as identifying molecular pathways regulating cellular differentiation of the mammalian blood stage of the parasite. 
 
 ## Curiculum Vitae
 
@@ -33,10 +31,10 @@ The experience and expertise I have acquired have now inspired me in my choice t
 
 | Dates | Name of organisation and position held. | PI name | Type of appointment |
 | ---- | ---- | ---- | ---- |
-| 05/2017 - to date | University of Edinburgh – Post-doc - supported by the Wellcome Trust through Wellcome Investigator awards to K. R. Matthews (#103740, #221717). Annual salary: £40,322. | Prof. Keith R. Matthews | Fixed-term Full-time |
-| 05/2015 - 04/2017 | University of Edinburgh – Post-doc - As **Marie Curie Fellow (#65470)**. | Prof. Keith R. Matthews | Fixed-term Full-time |
+| 05/2017 - to date | University of Edinburgh – Post-doc - supported by the Wellcome Trust through Wellcome Investigator awards to K. R. Matthews (#103740, #221717). | Prof. Keith R. Matthews | Fixed-term Full-time |
+| 05/2015 - 04/2017 | University of Edinburgh – Post-doc - As **Marie Curie-Sklodowska Fellow (#65470)**. | Prof. Keith R. Matthews | Fixed-term Full-time |
 | 10/2014 - 03/2015 | Pasteur institute Paris – Post-doc. | Dr. Gerald F. Spãth | Fixed-term Full-time |
-| 09/2010 - 09/2014 | Pasteur institute Paris – University Paris 7 – PhD student – supported by a DIM Malinf fellowship. | Dr. Gerald F. Spãth | Fixed-term Full-time |
+| 09/2010 - 09/2014 | Pasteur institute Paris – University Paris 7 – PhD student – supported by a **DIM Malinf fellowship**. | Dr. Gerald F. Spãth | Fixed-term Full-time |
 | 11/2009 - 06/2010 | Pasteur institute Paris – University Paris 6 – Master degree. | Dr. Gerald F. Spãth | Fixed-term full-time |
 | 07/2009 - 08/2009 | Cordeliers Research Center – University Paris 6 – Licence degree. | Dr. Véronique Fremeaux-Bacchi | Fixed-term full-time |
 | 01/2009 - 05/2009 | Cordeliers Research Center – Summer work as Study Engineer. | Dr. Véronique Fremeaux-Bacchi | Fixed-term full-time |
@@ -46,7 +44,7 @@ The experience and expertise I have acquired have now inspired me in my choice t
 
 | Dates | Name of grant held.  | Position on the grant | Total amount awarded |
 | ---- | ---- | ---- | ---- |
-| 05/2015 - 04/2017 | Post-doctorate Fellowship of “Marie Curie” | PI | 183455€ |
+| 05/2015 - 04/2017 | Post-doctorate Fellowship of “Marie Curie-Sklodowska” | PI | 183455€ |
 | 11/2010 - 11/2013 | PhD Fellowship of “DIM Maladies infectieuses”, Ile de France, France | PI | 95850€ |
 
 ### PRIZES and AWARDS
