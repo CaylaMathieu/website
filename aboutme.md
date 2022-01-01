@@ -8,7 +8,7 @@ subtitle:
 
 During my career, I have shown a great interest in signalling and regulatory mechanisms controlling cell differentiation and adaptation of unicellular parasites. 
 
-I joined the Pasteur Institute with a DIM MalInf Fellowship to perform my PhD, under the supervision of Dr. Gerald Spath and co-supervision of Dr Najma Rachidi, to study the role of protein kinases in _Leishmania_ parasites. 
+I joined the Pasteur Institute with a DIM MalInf Fellowship to perform my PhD, under the supervision of Dr. Gerald Spath and co-supervision of Dr. Najma Rachidi, to study the role of protein kinases in _Leishmania_ parasites. 
 I performed a structure/function analysis of a protein kinase and studied its role in cellular differentiation. 
 
 I then joined the laboratory of Prof. Keith Matthews at the University of Edinburgh, with a Marie Curie-Sklodowska Fellowship, to characterise protein kinases implicated in the quorum−sensing differentition of the parasite _T. brucei_. During this PostDoc, I successfully lead several projects, collaborated and train Honours, Master and PhD students. I developed new enzymatic assays and pipelines to study the role of protein kinases as well as identifying molecular pathways regulating cellular differentiation of the mammalian blood stage of the parasite. 
