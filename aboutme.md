@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: The narcissistic part
 ---
 
 ## My scientific story

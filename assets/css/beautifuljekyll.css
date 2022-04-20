@@ -927,7 +927,8 @@ pre {
 .box-note,
 .box-warning,
 .box-error,
-.box-success {
+.box-success,
+.box-figure {
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
   margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
   border: 1px solid #eee;
@@ -938,6 +939,11 @@ pre {
 .box-note {
   background-color: #eee;
   border-left-color: #2980b9;
+}
+
+.box-figure {
+  background-color: #eee;
+  border-left-color: #e1e1e1;
 }
 
 .box-warning {

@@ -15,19 +15,18 @@ author: Mathieu Cayla
 
 navbar-links:
   About Me: "aboutme"
-#  Projects: "projects"
+  Projects: "projects"
   Team: "team"
   Publications: "publications"
-# Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Ressources:
+    - Lab Ressources: "labres"
+    - Preparation interview: "https://elisagranato.com/fellowship-applications-100-qa-questions"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/assets/img/avatar-icon.png"
-avatar: "/assets/img/tryp_square.jpg"
+avatar: "/assets/img/parasites.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -57,7 +56,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +44 (0)131 650 8655
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -66,7 +65,7 @@ social-network-links:
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-3731-7947
   google-scholar: citations?user=8asfPgMAAAAJ&hl=fr
-#  discord: invite/invite_code or users/userid 
+#  discord: invite/invite_code or users/userid
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -78,7 +77,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -175,23 +174,23 @@ footer-hover-col: "#0085A1"
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
-# section commented if you aren't using reCaptcha for spam protection. 
-# Using Staticman requires advanced knowledge, please consult 
-# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
-# instructions. For any support with staticman please direct questions to staticman and 
+# section commented if you aren't using reCaptcha for spam protection.
+# Using Staticman requires advanced knowledge, please consult
+# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further
+# instructions. For any support with staticman please direct questions to staticman and
 # not to BeautifulJekyll.
 #staticman:
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
-#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
+#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well)
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
 # To use giscus comments:
-# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository, 
+# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository,
 # (2) Install the giscus app in your repository (details at https://giscus.app),
-# (3) Fill in *all* the parameters below 
+# (3) Fill in *all* the parameters below
 # See more details about giscus and each of the following parameters at https://giscus.app
 #giscus:
 #  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
@@ -248,9 +247,8 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
   - docs/
-  - _posts_backup/
+  - _posts_examples/
 
 plugins:
   - jekyll-paginate
@@ -258,4 +256,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
