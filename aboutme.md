@@ -1,17 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: The narcissistic part
+subtitle: A bit of narcissism
 ---
 
 ## My scientific story
 
-During my career, I have shown a great interest in signalling and regulatory mechanisms controlling cell differentiation and adaptation of unicellular parasites. 
+I joined the Pasteur Institute with a DIM MalInf Fellowship to perform my PhD, under the supervision of Dr. Gerald Spath and co-supervision of Dr. Najma Rachidi, to study the role of protein kinases in _Leishmania_ parasites. During that time, I performed a structure/function analysis of a protein kinase and studied its role in cellular differentiation (see [PhD project](/pastprojects#phd))
 
-I joined the Pasteur Institute with a DIM MalInf Fellowship to perform my PhD, under the supervision of Dr. Gerald Spath and co-supervision of Dr. Najma Rachidi, to study the role of protein kinases in _Leishmania_ parasites. 
-I performed a structure/function analysis of a protein kinase and studied its role in cellular differentiation. 
+I then joined the laboratory of Prof. Keith Matthews at the University of Edinburgh, with a Marie Curie-Sklodowska Fellowship, to characterise protein kinases implicated in the quorum−sensing differentition of the parasite _T. brucei_. During this PostDoc, I successfully lead several projects, collaborated and train Honours, Master and PhD students. I developed new enzymatic assays and pipelines to study the role of protein kinases as well as identifying molecular pathways regulating cellular differentiation of the mammalian blood stage of the parasite (see [Current projects](/projects) and [Post-doctoral projects](/pastprojects#post-doctorat))
 
-I then joined the laboratory of Prof. Keith Matthews at the University of Edinburgh, with a Marie Curie-Sklodowska Fellowship, to characterise protein kinases implicated in the quorum−sensing differentition of the parasite _T. brucei_. During this PostDoc, I successfully lead several projects, collaborated and train Honours, Master and PhD students. I developed new enzymatic assays and pipelines to study the role of protein kinases as well as identifying molecular pathways regulating cellular differentiation of the mammalian blood stage of the parasite. 
+From October 2022, I will be starting a [MRC career development](/2022-03-03-mrc-career-development-award-york) position at the University of York do develop a project studying the regulation and role of auto-Nagy during the differentiation steps of _T. brucei_ life cycle.
 
 ## Curiculum Vitae
 
@@ -44,48 +43,6 @@ I then joined the laboratory of Prof. Keith Matthews at the University of Edinbu
 
 | Dates | Name of grant held.  | Position on the grant | Total amount awarded |
 | ---- | ---- | ---- | ---- |
+| 10/2022 - 09/2027 | MRC Career development Award, York | PI | £1.5M |
 | 05/2015 - 04/2017 | Post-doctorate Fellowship of “Marie Curie-Sklodowska” | PI | 183455€ |
 | 11/2010 - 11/2013 | PhD Fellowship of “DIM Maladies infectieuses”, Ile de France, France | PI | 95850€ |
-
-### PRIZES and AWARDS
-
-| Date | Award |
-| ---- | ---- |
-| 04/2014 | Travel award: BSP spring meeting, UK (500€) |
-| 03/2018 | Travel award: The Batsheva de Rothschild Seminar, Israel (500€) |
-
-### SCIENTIFIC MANAGEMENT
-
-* **PhD thesis advisor:**
-   - Gloria Amegatcher, (2015-2018), University of Edinburgh, PhD thesis advisor, now Lecturer at University of Ghana, Dept of Medical Lab Sciences, Ghana, 
-   - Guy Oldrieve, (2018-date), University of Edinburgh.
-
-   In addition, on a daily basis, I have contributed to answer any small or larger questions of 7 PhD students that have performed their thesis in the Lab, including Gloria and Guy.
-
-* **Supervision of Master thesis:** 
-   - Rebecca Lowden, University of Edinburgh, 2018
-
-* **Supervision for Honours degree:** 
-   - Eliza Waskett (2020, rewarded with *SBS Honours Prize 2020* for her project under my supervision), 
-   - Sophie Hall (2017),
-   - Jena Grieve (2017), 
-   - Philip Jenkins (2016), University of Edinburgh, Honours Projects.
-
-* **Tutor for undergraduate course:** The Microbial World (2021), University of Edinburgh
-
-### SCIENTIFIC ANIMATIONS
-
-* **Public Engagement:** Edinburgh International Science Festival 2019, National Museum of Scotland
-
-* **Poster presentations:** The Batsheva de Rothschild Seminar (Israel, 2018) / KMCB (USA 2017) / BSP spring Meeting (Scotland, 2012) / B3MI meetings (France, 2012, 2011)
-
-* **Oral presentations:** Departmental Meeting 2019, 2020 and 2021 / KMCB (USA, 2019) / Trypanosomatid Parasites meeting (France, 2019) / The conference on protein kinases of parasitic protozoa (Israel, 2015) / Departmental seminar (France, 2013) / KMCB (USA, 2013) / B3MI meetings (France, 2013)
-
-* **_Invited Speaker_:** Parasitology webinar: “Desde el Living”, (Online, 2021)
-
-
-### SCIENTIFIC EVALUATION
-
-* **Peer-reviewing:** Frontiers (Oct. 2021) / Microbiology Spectrum (Aug. 2021) / Parasites and Vectors (Jul. 2021) / Nucleic Acid research (Jul. 2020) / Parasitology (Oct. 2020) / Molecular Microbiology (May 2019) / Molecular & Biochemical Parasitology (Jun. 2015, Nov. 2018)
-
- 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: The consequential part
+subtitle: Our contribution
 ---
 
 ### 2021

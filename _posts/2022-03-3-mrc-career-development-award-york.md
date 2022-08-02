@@ -8,7 +8,7 @@ share-img: /assets/img/york1803a.jpg
 tags: [fellowship]
 ---
 
-Today I was awarded a **MRC Career Development Award** to conduct an independent research project at the University of York.
+Pleasant news, Today I have been awarded a **MRC Career Development Award** to conduct an independent research project at the University of York.
 
 ### Title:
 

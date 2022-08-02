@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-subtitle: The most important part
+subtitle: Where the fun comes from
 cover-img: /assets/img/ashworth-front-600.jpg
 ---
 
