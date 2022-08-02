@@ -6,11 +6,11 @@ subtitle: A bit of narcissism
 
 ## My scientific story
 
-I joined the Pasteur Institute with a DIM MalInf Fellowship to perform my PhD, under the supervision of Dr. Gerald Spath and co-supervision of Dr. Najma Rachidi, to study the role of protein kinases in _Leishmania_ parasites. During that time, I performed a structure/function analysis of a protein kinase and studied its role in cellular differentiation (see [PhD project](/pastprojects#phd))
+I joined the Pasteur Institute with a DIM MalInf Fellowship to perform my PhD, under the supervision of Dr. Gerald Spath and co-supervision of Dr. Najma Rachidi, to study the role of protein kinases in _Leishmania_ parasites. During that time, I performed a structure/function analysis of a protein kinase and studied its role in cellular differentiation (see [PhD project](../pastprojects#phd))
 
-I then joined the laboratory of Prof. Keith Matthews at the University of Edinburgh, with a Marie Curie-Sklodowska Fellowship, to characterise protein kinases implicated in the quorum−sensing differentition of the parasite _T. brucei_. During this PostDoc, I successfully lead several projects, collaborated and train Honours, Master and PhD students. I developed new enzymatic assays and pipelines to study the role of protein kinases as well as identifying molecular pathways regulating cellular differentiation of the mammalian blood stage of the parasite (see [Current projects](/projects) and [Post-doctoral projects](/pastprojects#post-doctorat))
+I then joined the laboratory of Prof. Keith Matthews at the University of Edinburgh, with a Marie Curie-Sklodowska Fellowship, to characterise protein kinases implicated in the quorum−sensing differentition of the parasite _T. brucei_. During this PostDoc, I successfully lead several projects, collaborated and train Honours, Master and PhD students. I developed new enzymatic assays and pipelines to study the role of protein kinases as well as identifying molecular pathways regulating cellular differentiation of the mammalian blood stage of the parasite (see [Current projects](../projects) and [Post-doctoral projects](../pastprojects#post-doctorat))
 
-From October 2022, I will be starting a [MRC career development](/2022-03-03-mrc-career-development-award-york) position at the University of York do develop a project studying the regulation and role of auto-Nagy during the differentiation steps of _T. brucei_ life cycle.
+From October 2022, I will be starting a [MRC career development](../2022-03-03-mrc-career-development-award-york) position at the University of York do develop a project studying the regulation and role of auto-Nagy during the differentiation steps of _T. brucei_ life cycle.
 
 ## Curiculum Vitae
 
