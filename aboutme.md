@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: CV
 subtitle: A bit of narcissism
 ---
 

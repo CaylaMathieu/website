@@ -16,7 +16,7 @@ Notably, *T. brucei* lacks or is independent from essential protein kinase compl
 
 {: .box-figure}
 ![Working model TbDYRK](assets/img/Kinase_Tree_June.png){: .mx-auto.d-block :}
-*We want to identify what protein kinases regulate autophagy-related pathways during <em>T. brucei</em> differentiation. From Cayla et al., Trends in Parasitology, 2022.*
+We want to identify what protein kinases regulate autophagy-related pathways during _T. brucei_ differentiation. From Cayla et al., Trends in Parasitology, 2022.
 
 #### What are the roles of autophagy-related pathways in the parasite life-cycle and host adaptation ?
 
@@ -24,7 +24,7 @@ The release of peptidases to the extracellular environment is an essential proce
 
 {: .box-figure}
 ![Working model TbDYRK](assets/img/fig_differentiation-autophagy-model.png){: .mx-auto.d-block :}
-*Revealing the drivers of differentiation and quorum-sensing initiation in <em>T. brucei</em> is fundamental to understand the parasite host adaptation and survival.*
+Revealing the drivers of differentiation and quorum-sensing initiation in _T. brucei_ is fundamental to understand the parasite host adaptation and survival.
 
 #### How does *T. brucei* invade host-tissues ?
 
@@ -32,7 +32,7 @@ African trypanosomiasis is characterised by initial waves of parasitaemia in the
 
 {: .box-figure}
 ![Working model TbDYRK](assets/img/model_invasion.png){: .mx-auto.d-block :}
-*We aim to understand what is the role of the release of peptidase by autophagy-related pathways for the dynamic of host tissues invasion by _T. brucei_. Adapted from Silva Pereira et al, Open Biol., 2019.*
+We aim to understand what is the role of the release of peptidase by autophagy-related pathways for the dynamic of host tissues invasion by _T. brucei_. Adapted from Silva Pereira et al, Open Biol., 2019.
 
 These researches will not only provide a better understanding of how kinetoplastid parasites adapt to the different hosts encountered during their complex lifecycles and persist *in vivo*, but will lay the foundations for the use of *T. brucei* as model to study the regulation of, and crosstalk between, the autophagy and exocytosis pathways.
 
