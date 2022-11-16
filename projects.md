@@ -6,18 +6,39 @@ subtitle: Lets get serious
 
 ## Current projects:
 
-### What is the role and how are regulated  *T. brucei* stress granules during parasite differentiation?
+In eukaryotes, protein kinases and kinase enzyme complexes create protein phosphorylations. These reversible regulatory modifications are essential to control autophagy and promote cell survival and differentiation. Autophagy (from greek “auto” self and “phagos” eating) is an essential process by which cells target cellular components or pathogens to the lysosome for degradation and recycling. Autophagy machinery is also shared with the unconventional secretory pathway, called lysosome exocytosis, that is a fundamental mechanism for the release of proteins that lysosomes could not degrade, thus avoiding potential toxic effect for the cell. Additionally, lysosome exocytosis has been implicated in the breach of host cellular membrane to allow invasion by the worm *C. elegans* through the release of peptidases. 
 
-For this project, that requires in-situ tagging and imaging, I supervised a Honours student, Eliza Waskett, who was rewarded with the SBS Honours Prize 2020 for her work under my supervision. We were able to determine that stress granules[^1] were dynamically relocated during the course of *in vivo* differentiation. 
+Kinetoplastids are exquisitely sensitive to their environment and require autophagy to adapt to drastic changes during host transitions. Our laboratory uses *T. brucei* as an excellent tractable model to explore the diversity of eukaryotic signalling networks and to investigate the regulatory mechanisms of autophagy-related pathways and their role for the parasite life-cycle and virulence.
 
-We have also developed a proximity labelling system using the APEX2 tag to allow the identification of new components of stress granules formed during the quorum sensing differentiation. Indeed, we observed that the composition of differentiation granules is different from glucose starvation stress granules. 
+#### Which pathways controlled by protein kinases or kinases complexes regulate autophagy in *T. brucei*?
 
-In parallel, we performed a bioinformatic analysis during the lockdown imposed by the current COVID outbreak that aimed to identify low complexity regions (LCRs) in the proteome of *T. brucei*. Indeed, the formation of stress granules occurs through liquid-liquid phase separation of the proteins that is facilitated by the presence of low complexity regions. We were able to determine an enrichment of LCRs in protein’s extremities and particularly on the C-terminal regions of proteins involved in nucleic acid binding. We then linked the regulation of these regions to post-translational modifications and were able to show that phosphorylations are strongly enriched in LCRs. These results open the way to study the regulations of stress granules formation by the action of protein kinases and phosphatases in kinetoplastids parasites and were released in a publication in Open Wellcome research in 2020[^2]. 
+Notably, *T. brucei* lacks or is independent from essential protein kinase complexes regulating autophagy in classical eukaryotic models. Therefore, studying how protein kinases regulate autophagy and lysosome exocytosis by phosphorylation events is essential to understand how insect-transmitted parasites invade and survive in both mammalian hosts, including humans, and insect-vectors. 
+
+{: .box-figure}
+![Working model TbDYRK](assets/img/Kinase_Tree_June.png){: .mx-auto.d-block :}
+*We want to identify what protein kinases regulate autophagy-related pathways during <em>T. brucei</em> differentiation. From Cayla et al., Trends in Parasitology, 2022.*
+
+#### What are the roles of autophagy-related pathways in the parasite life-cycle and host adaptation ?
+
+The release of peptidases to the extracellular environment is an essential process by which *T. brucei* is able to sense its population density within the mammalian bloodstream. Indeed, the peptidases digest host proteins and generate oligopeptides that are in turn sensed by the parasites to initiate a quorum-sensing dependent differentiation. This differentiation is not only essential for the progression to the next life stage but also prolongs the survival of the host, both facilitating transmission. However, the mechanisms involved in the release of the peptidases to generate the quorum sensing response remains unknown. An attractive potential pathway for the release of these peptidases, and therefore to enable quorum-sensing and tissue invasion, is the lysosome exocytosis pathway.
+
+{: .box-figure}
+![Working model TbDYRK](assets/img/fig_differentiation-autophagy-model.png){: .mx-auto.d-block :}
+*Revealing the drivers of differentiation and quorum-sensing initiation in <em>T. brucei</em> is fundamental to understand the parasite host adaptation and survival.*
+
+#### How does *T. brucei* invade host-tissues ?
+
+African trypanosomiasis is characterised by initial waves of parasitaemia in the bloodstream, followed by invasion of the central nervous system. Recent studies highlighted the importance of tissues and organs as a potential reservoir and protective environment for the creation of the characteristic waves of parasitaemia, drug resistance and parasite transmission. However, little is known about the dynamic flux between tissues, their roles for the bloodstream re-invasion and their influence on the parasites’ life cycle. With this question, we want to understand how peptidase secretion through autophagy-related pathways enable host tissue invasion by *T. brucei*. This research will provide an understanding of the parasite’s life cycle and disease progression where compartments may play a role. 
+
+{: .box-figure}
+![Working model TbDYRK](assets/img/model_invasion.png){: .mx-auto.d-block :}
+*We aim to understand what is the role of the release of peptidase by autophagy-related pathways for the dynamic of host tissues invasion by _T. brucei_. Adapted from Silva Pereira et al, Open Biol., 2019.*
+
+These researches will not only provide a better understanding of how kinetoplastid parasites adapt to the different hosts encountered during their complex lifecycles and persist *in vivo*, but will lay the foundations for the use of *T. brucei* as model to study the regulation of, and crosstalk between, the autophagy and exocytosis pathways.
 
 ## [Past projects](../pastprojects)
-#### Bibliography
-[^1]: Fritz, M. et al. Novel insights into RNP granules by employing the trypanosome’s microtubule skeleton as a molecular sieve. Nucleic Acids Res. 43, 8013–8032 (2015).
-[^2]: Cayla, M., Matthews, K. R. & Ivens, A. C. A global analysis of low-complexity regions in the Trypanosoma brucei proteome reveals enrichment in the C-terminus of nucleic acid binding proteins providing potential targets of phosphorylation. Wellcome Open Res. 5, 219 (2020).
+
+
 
  
 
