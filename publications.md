@@ -4,6 +4,10 @@ title: Publications
 subtitle: Our contribution
 ---
 
+### 2022
+* **_Cayla, M._**, Nievas, Y.R., Matthews, K.R., Mottram, J.C., 2022. Distinguishing functions of trypanosomatid protein kinases. Trends in Parasitology 38, 950–961. https://doi.org/10.1016/j.pt.2022.08.009
+
+
 ### 2021
 * F. Rojas, **M. Cayla**, K. R. Matthews. Basement membrane proteins as a substrate for efficient trypanosoma brucei differentiation in vitro. *PLoS Neglected Tropical Diseases* 2021, 15(4):e0009284. DOI: 10.1371/journal.pntd.0009284, PMID: 33909626, PMCID: PMC8109799.
 
