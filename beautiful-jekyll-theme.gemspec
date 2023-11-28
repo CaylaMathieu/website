@@ -22,7 +22,13 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-sitemap", "~> 1.4"
   spec.add_runtime_dependency "kramdown-parser-gfm", "~> 1.1"
   spec.add_runtime_dependency "kramdown", "~> 2.3.0"
+  spec.add_runtime_dependency "jekyll-gist", "~> 1.5" #added for portofolio
+  spec.add_runtime_dependency "jekyll-feed", "~> 0.12" #added for portofolio
+  spec.add_runtime_dependency "jekyll-data", "~> 1.1" #added for portofolio
+  spec.add_runtime_dependency "jemoji", "~> 0.11" #added for portofolio
+  spec.add_runtime_dependency "webrick", "~> 1.7.0" #added for portofolio
 
   spec.add_development_dependency "bundler", ">= 1.16"
   spec.add_development_dependency "rake", "~> 12.0"
+  spec.add_development_dependency "html-proofer", "~> 3.15" #added for portofolio
 end

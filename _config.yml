@@ -238,13 +238,6 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-#  -
-#    scope:
-#      path: "" # any file that's not a post will be a "page" layout by default
-#      type: "peoples"
-#    values:
-#      layout: "portofolio-grid"
-
 
 # Exclude these files from production site
 exclude:
