@@ -14,7 +14,7 @@ author: Mathieu Cayla
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "aboutme"
+  #CV: "aboutme"
   Projects: "projects"
   Team: "team"
   Publications: "publications"
@@ -127,7 +127,7 @@ footer-hover-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
-#  - "/assets/css/custom-styles.css"
+  - "/assets/css/portofolio.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -238,6 +238,13 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+#  -
+#    scope:
+#      path: "" # any file that's not a post will be a "page" layout by default
+#      type: "peoples"
+#    values:
+#      layout: "portofolio-grid"
+
 
 # Exclude these files from production site
 exclude:
