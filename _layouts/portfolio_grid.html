@@ -33,7 +33,7 @@ layout: page
               <h3 class="post-subtitle">{{ post.role }}</h3>
                {% endif %}
             </div>
-          <img src="{{ post.thumbnail-img }}" class="img-responsive" alt="{{ post.alt }}">
+          <img src="{{ post.thumbnail-img | absolute_url }}" class="img-responsive" alt="{{ post.alt }}">
         </a>
       </div>
       {% endif %}
