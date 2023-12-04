@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Past Projects
-subtitle: The still interesting part
+#subtitle: The still interesting part
 ---
 ## Post-doctorat:
 	

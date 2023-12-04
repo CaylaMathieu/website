@@ -6,6 +6,7 @@ cover-img: /assets/img/york1803a.jpg
 thumbnail-img: /assets/img/ukri-mrc-square-logo.png
 share-img: /assets/img/york1803a.jpg
 tags: [fellowship]
+peoples: false
 ---
 
 Pleasant news, Today I have been awarded a **MRC Career Development Award** to conduct an independent research project at the University of York.

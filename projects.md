@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Lets get serious
+#subtitle: Lets get serious
 ---
 
 ## Current projects:
@@ -15,7 +15,7 @@ Kinetoplastids are exquisitely sensitive to their environment and require autoph
 Notably, *T. brucei* lacks or is independent from essential protein kinase complexes regulating autophagy in classical eukaryotic models. Therefore, studying how protein kinases regulate autophagy and lysosome exocytosis by phosphorylation events is essential to understand how insect-transmitted parasites invade and survive in both mammalian hosts, including humans, and insect-vectors. 
 
 {: .box-figure}
-![Working model TbDYRK](assets/img/Kinase_Tree_June.png){: .mx-auto.d-block :}
+![Working model TbDYRK](/assets/img/Kinase_Tree_June.png){: .mx-auto.d-block :}
 We want to identify what protein kinases regulate autophagy-related pathways during _T. brucei_ differentiation. From Cayla et al., Trends in Parasitology, 2022.
 
 #### What are the roles of autophagy-related pathways in the parasite life-cycle and host adaptation ?
@@ -23,7 +23,7 @@ We want to identify what protein kinases regulate autophagy-related pathways dur
 The release of peptidases to the extracellular environment is an essential process by which *T. brucei* is able to sense its population density within the mammalian bloodstream. Indeed, the peptidases digest host proteins and generate oligopeptides that are in turn sensed by the parasites to initiate a quorum-sensing dependent differentiation. This differentiation is not only essential for the progression to the next life stage but also prolongs the survival of the host, both facilitating transmission. However, the mechanisms involved in the release of the peptidases to generate the quorum sensing response remains unknown. An attractive potential pathway for the release of these peptidases, and therefore to enable quorum-sensing and tissue invasion, is the lysosome exocytosis pathway.
 
 {: .box-figure}
-![Working model TbDYRK](assets/img/fig_differentiation-autophagy-model.png){: .mx-auto.d-block :}
+![Working model TbDYRK](/assets/img/fig_differentiation-autophagy-model.png){: .mx-auto.d-block :}
 Revealing the drivers of differentiation and quorum-sensing initiation in _T. brucei_ is fundamental to understand the parasite host adaptation and survival.
 
 #### How does *T. brucei* invade host-tissues ?
@@ -31,7 +31,7 @@ Revealing the drivers of differentiation and quorum-sensing initiation in _T. br
 African trypanosomiasis is characterised by initial waves of parasitaemia in the bloodstream, followed by invasion of the central nervous system. Recent studies highlighted the importance of tissues and organs as a potential reservoir and protective environment for the creation of the characteristic waves of parasitaemia, drug resistance and parasite transmission. However, little is known about the dynamic flux between tissues, their roles for the bloodstream re-invasion and their influence on the parasites’ life cycle. With this question, we want to understand how peptidase secretion through autophagy-related pathways enable host tissue invasion by *T. brucei*. This research will provide an understanding of the parasite’s life cycle and disease progression where compartments may play a role. 
 
 {: .box-figure}
-![Working model TbDYRK](assets/img/model_invasion.png){: .mx-auto.d-block :}
+![Working model TbDYRK](/assets/img/model_invasion.png){: .mx-auto.d-block :}
 We aim to understand what is the role of the release of peptidase by autophagy-related pathways for the dynamic of host tissues invasion by _T. brucei_. Adapted from Silva Pereira et al, Open Biol., 2019.
 
 These researches will not only provide a better understanding of how kinetoplastid parasites adapt to the different hosts encountered during their complex lifecycles and persist *in vivo*, but will lay the foundations for the use of *T. brucei* as model to study the regulation of, and crosstalk between, the autophagy and exocytosis pathways.

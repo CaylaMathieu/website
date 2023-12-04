@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Our contribution
+#subtitle: Our contribution
 ---
 
 ### 2022

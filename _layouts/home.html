@@ -4,12 +4,11 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign posts = paginator.posts | default: site.posts | where: "peoples", "false" %}
 
 <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">
-
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
         {{ post.thumbnail-img }}
@@ -84,7 +83,6 @@ layout: page
       {% endfor %}
     </div>
     {% endif %}
-
    </article>
   {% endfor %}
 </div>

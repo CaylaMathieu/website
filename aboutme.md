@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-subtitle: A bit of narcissism
+#subtitle: A bit of narcissism
 ---
 
 ## Curiculum Vitae

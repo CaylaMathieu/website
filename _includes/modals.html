@@ -1,7 +1,7 @@
 <!-- Portfolio Modals -->
-<!-- {% for post in site.posts %} -->
-{% for post in site.peoples %}
-<div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog"
+<!-- {% for post in site.peoples %} -->
+{% for people in site.peoples %}
+<div class="portfolio-modal modal fade" id="portfolioModal-{{ people.modal-id }}" tabindex="-1" role="dialog"
   aria-hidden="true">
   <div class="modal-content">
     <div class="close-modal" data-dismiss="modal">
@@ -14,26 +14,26 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
-            <h2>{{ post.title }}</h2>
+            <h2>{{ people.title }}</h2>
             <hr class="star-primary">
-            <img src="assets/img/people/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-            {% if post.description %}
-            <p>{{ post.description }}</p>
+            <img src="/assets/img/people/{{ post.img }}" class="img-responsive img-centered" alt="{{ people.alt }}">
+            {% if people.description %}
+            <p>{{ people.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
-              {% if post.role %}
+              {% if people.role %}
               <li>Role:
-                <strong>{{ post.role }}</strong>
+                <strong>{{ people.role }}</strong>
               </li>
               {% endif %}
-              {% if post.start-date %}
+              {% if people.start-date %}
               <li>Date:
-                <strong>{{ post.start-date }}</strong>
+                <strong>{{ people.start-date }}</strong>
               </li>
               {% endif %}
-              {% if post.email %}
+              {% if people.email %}
               <li>Email:
-                <strong>{{ post.email }}</strong>
+                <strong>{{ people.email }}</strong>
               </li>
               {% endif %}
             </ul>
