@@ -7,6 +7,6 @@ tags: [publication, article, Nature Communications]
 peoples: false
 ---
 
-The African trypanosome *Trypanosoma brucei* forms membraneless granules in vitro that are repurposed to enable differentiation and could facilitate parasite transmission [Nature Communications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10998879/).
+We have characterised the membraneless granules formed during *Trypanosoma brucei* quorum-sensing differentiation that are dynamically regulated by protein kinases and are different from the granules observed upon in vitro stress [Nature Communications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10998879/).
 
 DOI: 10.1038/s41467-024-47309-1
