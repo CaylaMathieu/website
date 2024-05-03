@@ -2,7 +2,7 @@
 layout: post
 title: Research article publication
 subtitle: Differentiation granules, a dynamic regulator of T. brucei development
-thumbnail-img: /assets/img/nature_communoications.png
+thumbnail-img: /assets/img/nature_communications.png
 tags: [publication, article, Nature Communications]
 peoples: false
 ---
