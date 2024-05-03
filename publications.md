@@ -4,6 +4,9 @@ title: Publications
 #subtitle: Our contribution
 ---
 
+### 2024
+* **_Cayla, M._**, Spanos C., McWilliam K., Waskett  E., Rappsilber J., Matthews K.R., 2024. Differentiation granules, a dynamic regulator of T. brucei development. Nat Commun 15, 2972 (2024). https://doi.org/10.1038/s41467-024-47309-1
+
 ### 2022
 * **_Cayla, M._**, Nievas, Y.R., Matthews, K.R., Mottram, J.C., 2022. Distinguishing functions of trypanosomatid protein kinases. Trends in Parasitology 38, 950–961. https://doi.org/10.1016/j.pt.2022.08.009
 
