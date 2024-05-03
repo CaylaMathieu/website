@@ -19,7 +19,7 @@ navbar-links:
   Team: "team"
   Publications: "publications"
   Ressources:
-    - Lab Ressources: "labres"
+  #  - Lab Ressources: "labres"
     - Preparation interview: "https://elisagranato.com/fellowship-applications-100-qa-questions"
 
 # --- Logo --- #
@@ -262,7 +262,6 @@ exclude:
   - LICENSE
   - README.md
   - docs/
-  - _posts_examples/
 
 plugins:
   - jekyll-paginate
