@@ -2,6 +2,7 @@
 layout: post
 title: Review publication
 subtitle: African Trypanosomes
+thumbnail-img: /assets/img/parasitesandvectors_logo.jpeg
 tags: [publication, review, Parasites & Vectors]
 peoples: false
 ---

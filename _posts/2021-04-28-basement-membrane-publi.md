@@ -2,6 +2,7 @@
 layout: post
 title: Research article publication
 subtitle: Basement membrane proteins as a substrate for efficient Trypanosoma brucei differentiation in vitro
+thumbnail-img: /assets/img/PLOS_logo.jpeg
 tags: [publication, article, PLoS Neglected Tropical Diseases]
 peoples: false
 ---

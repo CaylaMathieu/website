@@ -2,6 +2,7 @@
 layout: post
 title: Research article publication
 subtitle: A global analysis of low-complexity regions in the Trypanosoma brucei proteome reveals enrichment in the C-terminus of nucleic acid binding proteins providing potential targets of phosphorylation
+thumbnail-img: /assets/img/wellcomeopenresearch_logo.jpeg
 tags: [publication, article, Wellcome Open Research]
 peoples: false
 ---

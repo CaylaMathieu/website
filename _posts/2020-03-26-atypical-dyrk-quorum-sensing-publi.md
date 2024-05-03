@@ -2,6 +2,7 @@
 layout: post
 title: Research article publication
 subtitle: An atypical DYRK kinase connects quorum-sensing with posttranscriptional gene regulation in Trypanosoma brucei
+thumbnail-img: /assets/img/logo-elife.jpg
 tags: [publication, article, eLife]
 peoples: false
 ---

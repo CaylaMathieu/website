@@ -2,6 +2,7 @@
 layout: post
 title: Method article publication
 subtitle: Gel-Based Methods for the Investigation of Signal Transduction Pathways in Trypanosoma brucei
+#thumbnail-img: /assets/img/
 tags: [publication, method, Methods in Molecular Biology]
 peoples: false
 ---
