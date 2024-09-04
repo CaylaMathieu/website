@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Postdoc position available
-subtitle: 3 year postdoc / Signalling pathways that regulate autophagy, lysosome exocytosis and biomolecular condensates during the lifecycle differentiations of *T. brucei*
-thumbnail-img: /assets/img/University-of-York\_bg\_small.png
+subtitle: 3 year postdoc / Signalling pathways that regulate autophagy, lysosome exocytosis and biomolecular condensates during the lifecycle differentiations of T. brucei
+thumbnail-img: /assets/img/University-of-York_bg_small.png
 tags: [postdoc, job]
 peoples: false
 ---
@@ -37,6 +37,7 @@ Our laboratories provide a supportive and collaborative environment in which the
 - Positive attitude to colleagues and students and a willingness to work proactively
 - Commitment to personal development and understanding of equality and diversity issues
 
+**[Link to the application and job description page](https://jobs.york.ac.uk/vacancy/postdoctoral-research-associate-567761.html)**
 
 **Apply by: 04/10/2024**  
 
