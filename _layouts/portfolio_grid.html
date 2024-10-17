@@ -2,7 +2,6 @@
 layout: page
 ---
 
-<!--{% assign posts = paginator.posts | default: site.posts | where: "peoples", "true" %}-->
 {% assign posts = site.posts | where: "peoples", "true" | where_exp: "item", "item.modal-id > 0" %}
 
 
@@ -21,7 +20,6 @@ layout: page
       {% if post.tags contains "peoples" %}
       <div class="portfolio-flex-item portfolio-item">
       	<a href="{{ post.url | absolute_url }}" aria-label="Thumbnail" class="portfolio-link">
-        <!--<a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">-->
           <div class="caption">
             <div class="caption-content">
               <i class="fa fa-search-plus fa-3x"></i>
