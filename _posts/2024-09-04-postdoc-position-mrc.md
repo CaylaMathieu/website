@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position available
+title: Now closed - Postdoc position available
 subtitle: 3 year postdoc / Signalling pathways that regulate autophagy, lysosome exocytosis and biomolecular condensates during the lifecycle differentiations of T. brucei
 thumbnail-img: /assets/img/University-of-York_bg_small.png
 tags: [postdoc, job]
