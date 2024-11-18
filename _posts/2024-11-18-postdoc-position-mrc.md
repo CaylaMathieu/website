@@ -11,6 +11,7 @@ peoples: false
 
 **Provisional interview date is 20/01/2025**
 
+**[Application form](https://jobs.york.ac.uk/vacancy/postdoctoral-research-associate-573678.html) can be found on Apply now**
 
 # About the Role
 
