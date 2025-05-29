@@ -16,9 +16,9 @@ author: Mathieu Cayla
 navbar-links:
   #CV: "aboutme"
   #Projects: "projects"
-  Team: 
+  Our team: 
     - Current: "team"
-    - Past: "pastteam"
+    - Alumini: "pastteam"
   Publications: "publications"
   Ressources:
   #  - Lab Ressources: "labres"

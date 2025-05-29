@@ -1,12 +1,12 @@
 ---
 layout: post
-title: PhD project available through the DiMeN DTP program
+title: Now closed - PhD project available through the DiMeN DTP program
 subtitle: Investigating the role and regulation of biomolecular condensate enabling kinetoplastid parasites host adaptation
 thumbnail-img: /assets/img/DiMeN.png
 tags: [phd, job]
 peoples: false
 ---
-**Apply by: Friday 13th December at 5pm (UK time)**
+**Now closed**
 
 **[DiMeN DTP](https://www.dimen.org.uk/)**
 
