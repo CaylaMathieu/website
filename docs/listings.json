@@ -1,0 +1,69 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/blog/2018-06-25-non-linear-hierachy-quorum-sensing-publi.html",
+      "/blog/2019-04-29-african-tryp-publi.html",
+      "/blog/2020-03-20-gel-based-methods-publi.html",
+      "/blog/2020-03-26-atypical-dyrk-quorum-sensing-publi.html",
+      "/blog/2020-11-18-lcr-t-brucei-proteome-publi.html",
+      "/blog/2021-04-28-basement-membrane-publi.html",
+      "/blog/2022-03-3-mrc-career-development-award-york.html",
+      "/blog/2024-04-6-differentiation-granules-publi.html",
+      "/blog/2024-10-31-phD-project-dimen.html",
+      "/blog/2024-11-18-postdoc-position-mrc.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024-11-18-postdoc-position-mrc/index.html",
+      "/blog/2024-10-31-phD-project-dimen/index.html",
+      "/blog/2024-04-6-differentiation-granules-publi/index.html",
+      "/blog/2022-03-3-mrc-career-development-award-york/index.html",
+      "/blog/2021-04-28-basement-membrane-publi/index.html",
+      "/blog/2020-11-18-lcr-t-brucei-proteome-publi/index.html",
+      "/blog/2020-03-26-atypical-dyrk-quorum-sensing-publi/index.html",
+      "/blog/2020-03-20-gel-based-methods-publi/index.html",
+      "/blog/2019-04-29-african-tryp-publi/index.html",
+      "/blog/2018-06-25-non-linear-hierachy-quorum-sensing-publi/index.html"
+    ]
+  },
+  {
+    "listing": "/team/team.html",
+    "items": [
+      "/team/postdoc/2025-05-29-BiancaRodriguesLimaFerreira.html",
+      "/team/phd/2023-11-28-nathaliathompson.html",
+      "/team/postdoc/2026-06-18-AroNugawela.html",
+      "/team/postdoc/2026-06-18-EmmaWygard.html",
+      "/team/postdoc/2026-06-18-LeahSmith.html",
+      "/team/postdoc/2026-06-18-ShahadMohammedAAlanazi.html"
+    ]
+  },
+  {
+    "listing": "/team.html",
+    "items": [
+      "/team/2025-05-29-BiancaRodriguesLimaFerreira.html",
+      "/team/2023-11-28-nathaliathompson.html",
+      "/team/2026-06-18-AroNugawela.html",
+      "/team/2026-06-18-EmmaWygard.html",
+      "/team/2026-06-18-LeahSmith.html",
+      "/team/2026-06-18-ShahadMohammedAAlanazi.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/2024-11-18-postdoc-position-mrc.html",
+      "/blog/2024-10-31-phD-project-dimen.html",
+      "/blog/2024-04-6-differentiation-granules-publi.html",
+      "/blog/2022-03-3-mrc-career-development-award-york.html",
+      "/blog/2021-04-28-basement-membrane-publi.html",
+      "/blog/2020-11-18-lcr-t-brucei-proteome-publi.html",
+      "/blog/2020-03-26-atypical-dyrk-quorum-sensing-publi.html",
+      "/blog/2020-03-20-gel-based-methods-publi.html",
+      "/blog/2019-04-29-african-tryp-publi.html",
+      "/blog/2018-06-25-non-linear-hierachy-quorum-sensing-publi.html"
+    ]
+  }
+]

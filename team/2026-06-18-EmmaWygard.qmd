@@ -1,0 +1,12 @@
+---
+title: Emma Wygard
+alumni_name: Emma Wygard
+role: Integrated<br>Master
+categories:
+  - master
+  - past
+rank: 3
+page-layout: article
+toc: false
+labdate: 2025/2026
+---

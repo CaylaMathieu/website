@@ -1,0 +1,115 @@
+---
+title-block-banner: ./assets/img/lab_picture_250602_small.jpg
+title: Meet the team
+title-block-banner-color: white
+
+listing: 
+- id: team-preview
+  type: grid
+  contents: 
+    - "team/*.qmd"
+  fields: [title, categories, date, image, email, orcid, labdate]
+  field-display-names:
+    labdate: "Since"
+  sort: 
+    - "rank asc"
+    - "title asc"
+  #image-height: "100%"
+  exclude: 
+    categories: past
+  grid-columns: 4
+
+- id: past-preview
+  type: table
+  contents: 
+    - "team/*.qmd"
+  fields: [alumni_name, role, labdate]
+  field-display-names:
+    alumni_name: "Alumni Name"
+    role: "Position in the Lab"
+    labdate: " "
+  sort: 
+    - "rank asc"
+    - "title asc"
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+  #image-height: "100%"
+  exclude: 
+    categories: current
+  grid-columns: 4
+  
+toc: false
+
+format:
+  html:
+    page-layout: full
+    include-in-header:
+      text: |
+        <style>
+        /* 1. Page Header Banner Styling */
+        .quarto-title-block .quarto-title-banner {
+          height: 350px;             
+          background-size: cover;    
+          background-position: center bottom 65%; 
+        }
+        
+        /* 2. FORCE CARD AND COLUMN WIDTH REDUCTION */
+        /* We must target the Bootstrap grid column classes directly to shrink them */
+        #team-preview [class*="g-col-"],
+        #team-preview .quarto-grid-item,
+        #team-preview .card {
+          width: 140px !important;      /* Forces the entire card shell to stay narrow */
+          max-width: 140px !important;  
+          margin-right: auto !important;          
+          margin-left: auto !important;
+        }
+
+        /* 3. SHAPE THE IMAGE CONTAINER */
+        #team-preview .quarto-grid-item .card-img-top {
+          height: 180px !important;     /* A 180px height perfectly scales your 3:4 portrait photo */
+          max-height: 180px !important;
+          width: 100% !important;       
+          max-width: 100% !important;
+          margin-bottom: 0 !important;         
+          background-color: #ffffff !important;
+          display: flex !important;
+          align-items: center !important;
+          justify-content: center !important;
+          overflow: hidden !important;
+        }
+        
+        /* 4. FORCE THE IMAGE TO SHRINK WITHOUT CROPPING */
+        #team-preview .quarto-grid-item p.card-img-top img.thumbnail-image,
+        #team-preview .quarto-grid-item img.card-img {
+          height: 100% !important;      /* Lock height to the container */
+          width: 100% !important;       /* Lock width to the container */
+          max-height: 180px !important;
+          max-width: 140px !important;
+          object-fit: contain !important; /* Forces the whole 572x746 image to scale down */
+          background-color: #ffffff !important; 
+          object-position: center !important;   
+          display: block !important;
+        }  
+
+        /* 5. Card UI Layout Tweaks */
+        #team-preview .card {
+          background-color: #ffffff !important;
+          border: 1px solid rgba(0,0,0,.08) !important;
+        }
+        
+        #team-preview .card-body {
+          padding: 0.5rem !important;
+          text-align: center !important; 
+        }
+        </style>
+---
+
+:::{ #team-preview }
+:::
+
+
+
+:::{ #past-preview }
+:::

@@ -1,0 +1,28 @@
+---
+title: "Lab News"
+author: ""
+listing: 
+  contents:
+    - "blog/*.qmd"
+  type: default
+  fields: [title, categories, date, image, reading-time]
+  sort: "date desc"
+  image-height: "100%"
+format: 
+  html: 
+    page-layout: full
+    include-in-header:
+      text: |
+        <style>
+        /* Target the listing grid card/thumbnail images dynamically */
+        .quarto-listing-container-default .thumbnail img,
+        .listing-item .thumbnail img {
+          height: 150px !important;       /* Forces the strict uniform height */
+          width: 100% !important;         /* Spans full width of the container slot */
+          object-fit: contain !important; /* Fits image perfectly without distortion */
+          background-color: #ffffff;      /* Fills remaining spaces with solid white */
+          object-position: center;        /* Centers the image within the white space */
+        }
+        </style>
+---
+---

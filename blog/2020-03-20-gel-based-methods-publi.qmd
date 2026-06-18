@@ -1,0 +1,16 @@
+---
+title: Method article publication
+subtitle: Gel-Based Methods for the Investigation of Signal Transduction Pathways in Trypanosoma brucei
+author: Mathieu Cayla
+date: 2020-03-20
+categories:
+  - publication
+  - in-gel kinase assays
+  - Methods in Molecular Biology
+slug: protocol
+page-layout: article
+---
+
+Released in [Methods in Molecular Biology](https://link.springer.com/protocol/10.1007/978-1-0716-0294-2_30).
+
+DOI: 10.1007/978-1-0716-0294-2_30

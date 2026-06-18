@@ -1,0 +1,12 @@
+---
+title: Aro Nugawela
+alumni_name: Aro Nugawela
+role: Post Doctoral<br> Research Assistant
+categories:
+  - postdoc
+  - past
+rank: 1
+page-layout: article
+toc: false
+labdate: 2023/2024
+---

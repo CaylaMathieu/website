@@ -1,0 +1,28 @@
+---
+title: Bianca Rodrigues<br> Lima Ferreira
+alumni_name: Bianca Rodrigues<br> Lima Ferreira
+role: Post Doctoral<br> Research Assistant
+categories:
+  - postdoc
+  - current
+rank: 1
+page-layout: article
+image: ../../assets/img/people/biancarodrigues_v2.png
+toc: false
+email: bianca.ferreira@york.ac.uk
+orcid: 0000-0001-7578-2244
+labdate: "April 2025 - date"
+---
+
+### Email address: 
+
+bianca.ferreira@york.ac.uk
+
+### ORCID: 
+
+https://orcid.org/0000-0001-7578-2244
+
+### Post: 
+
+Post Doctoral Research Assistant
+

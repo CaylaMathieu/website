@@ -1,0 +1,28 @@
+---
+title: Nathalia<br> Thompson
+#<!--cover-img: /assets/img/people/nathaliathompson.jpg-->
+role: DiMeN PhD Student
+alumni_name: "Nathalia Thompson"
+categories:
+  - PhD student
+  - current
+rank: 2
+page-layout: article
+image: ../../assets/img/people/nathaliathompson_v2.png
+toc: false
+email: qwv508@york.ac.uk
+orcid:
+labdate: "September 2023 - date"
+---
+
+### Email address: 
+
+qwv508@york.ac.uk
+
+### Post: 
+
+DiMeN DTP PhD student
+
+### Start date: 
+
+September 2023   

@@ -1,0 +1,18 @@
+---
+title: Research article publication
+subtitle: Differentiation granules, a dynamic regulator of T. brucei development
+author: Mathieu Cayla
+date: 2024-04-06
+categories:
+  - publication
+  - differentiation
+  - biomolecular condensate
+  - Nature Communications
+slug: condensate
+page-layout: article
+image: ../../assets/img/nature_communications.png
+---
+
+We have characterised the membraneless granules formed during *Trypanosoma brucei* quorum-sensing differentiation that are dynamically regulated by protein kinases and are different from the granules observed upon in vitro stress [Nature Communications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10998879/).
+
+DOI: 10.1038/s41467-024-47309-1

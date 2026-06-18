@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+  title: "cayla-lab_website"
+
+# editor: visual
+website:
+  open-graph:
+    locale: en_gb
+    site-name: Cayla Lab
+  title: Cayla Lab
+  description: A website built with Quarto
+  site-url: https://caylamathieu.github.io
+  repo-url: caylamathieu.github.io/website
+  navbar:
+    title: Cayla Lab
+    left:
+      #- text: About
+      #  href: about.qmd
+      - text: Team
+        href: team.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Lab News
+        href: blog.qmd 
+      #- text: Ressources
+      #  href: ressources.qmd
+        
+  page-navigation: true
+  sidebar:
+    id: blog-posts
+    contents: 
+      - blog/
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+    left: &#169; 2026 Mathieu Cayla
+    right: Made with [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme: darkly
+    #css: node_modules/bootstrap/scss/bootstrap.scss
+    toc: true
+    
+cookie-consent: true

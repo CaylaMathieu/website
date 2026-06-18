@@ -1,0 +1,18 @@
+---
+title: Research article publication
+subtitle: Basement membrane proteins as a substrate for efficient Trypanosoma brucei differentiation in vitro
+author: Mathieu Cayla
+date: 2021-04-28
+categories:
+  - publication
+  - differentiation
+  - PLoS Neglected Tropical Diseases
+slug: bme stumpy
+page-layout: article
+image: ../../assets/img/PLOS_logo.jpeg
+---
+
+A useful tool for the study of slender to stumpy differentiation in *T. brucei*.
+Publication released in [PLoS Neglected Tropical Diseases](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009284).
+
+DOI: 10.1371/journal.pntd.0009284. eCollection

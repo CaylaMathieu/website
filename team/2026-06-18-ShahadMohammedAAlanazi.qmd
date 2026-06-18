@@ -1,0 +1,12 @@
+---
+title: Shahad Mohammed A Alanazi
+alumni_name: "Shahad Mohammed A Alanazi"
+role: Taught<br>Master
+categories:
+  - master
+  - past
+rank: 3
+page-layout: article
+toc: false
+labdate: summer 2023
+---

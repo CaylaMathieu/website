@@ -1,0 +1,17 @@
+---
+title: Research article publication
+subtitle: Non-linear hierarchy of the quorum sensing signalling pathway in bloodstream form African trypanosomes
+author: Mathieu Cayla
+date: 2018-06-25
+categories:
+  - publication
+  - signalling
+  - PLoS Pathogens
+slug: signalling
+page-layout: article
+image: ../../assets/img/PLOS_logo.jpeg
+---
+
+Organisation of the quorum-sensing signaling pathway in *T. brucei*. Released in [PLoS Pathogens](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007145).
+
+DOI: 10.1186/s13071-019-3355-5
