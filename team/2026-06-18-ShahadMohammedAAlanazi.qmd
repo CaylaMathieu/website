@@ -5,8 +5,9 @@ role: Taught<br>Master
 categories:
   - master
   - past
-rank: 3
+rank: 4
 page-layout: article
 toc: false
-labdate: summer 2023
+labdate: Summer 2023
+labdate-end: 2023-08
 ---

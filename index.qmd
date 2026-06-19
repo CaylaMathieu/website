@@ -13,7 +13,8 @@ listing:
 - id: blog-preview
   contents: 
     - blog/*.qmd
-  sort: [date,role]
+  sort: 
+    - date desc
   type: grid
   grid-columns: 4
   max-items: 4
@@ -86,7 +87,7 @@ We aim to understand what is the role of the release of peptidase by autophagy-r
 These researches will not only provide a better understanding of how kinetoplastid parasites adapt to the different hosts encountered during their complex lifecycles and persist *in vivo*, but will lay the foundations for the use of *T. brucei* as model to study the regulation of, and crosstalk between, the autophagy and exocytosis pathways.
 
 
-[[**Meet the team >**]{.btn .btn-primary .btn-md}](team.qmd)
+[[**Meet the team >**]{.btn .btn-outline-primary .btn-md}](team.qmd)
 
 :::
 

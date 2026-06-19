@@ -5,14 +5,15 @@ role: DiMeN PhD Student
 alumni_name: "Nathalia Thompson"
 categories:
   - PhD student
-  - current
-rank: 2
+  - DiMeN
+rank: 3
 page-layout: article
 image: ../../assets/img/people/nathaliathompson_v2.png
 toc: false
 email: qwv508@york.ac.uk
 orcid:
-labdate: "September 2023 - date"
+labdate: "2023 Sept."
+labdate-end:
 ---
 
 ### Email address: 

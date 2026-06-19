@@ -1,0 +1,28 @@
+---
+title: Mathieu<br> Cayla
+#<!--cover-img: /assets/img/people/nathaliathompson.jpg-->
+role: Lab Head
+alumni_name: "Mathieu Cayla"
+categories:
+  - lab head
+rank: 1
+page-layout: article
+image: ../../assets/img/people/mathieucayla.png
+toc: false
+email: mathieu.cayla@york.ac.uk
+orcid: 0000-0002-3731-7947
+labdate: "2022 Oct."
+labdate-end:
+---
+
+### Email address: 
+
+mathieu.cayla@york.ac.uk
+
+### Post: 
+
+Lab Head
+
+### Start date: 
+
+October 2022

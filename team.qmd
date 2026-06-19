@@ -30,14 +30,15 @@ listing:
     labdate: " "
   sort: 
     - "rank asc"
-    - "title asc"
+    - "labdate-end desc"
+    - "alumni_name asc"
   categories: false
   sort-ui: false
   filter-ui: false
   feed: false
   #image-height: "100%"
-  exclude: 
-    categories: current
+  include: 
+    categories: past
   grid-columns: 4
   
 toc: false
