@@ -40,8 +40,12 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme:
+      light: [minty] #, theme.scss]
+      dark: [minty, theme-dark.scss]
+    respect-user-color-scheme: true
     #css: node_modules/bootstrap/scss/bootstrap.scss
-    toc: true
+
+toc: true
     
 cookie-consent: true
