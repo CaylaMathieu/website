@@ -1,0 +1,13 @@
+---
+title: Chloe Gelsthorpe 
+alumni_name: Chloe Gelsthorpe 
+role: Generation Research<br>Summer student
+categories:
+  - student
+  - past
+rank: 5
+page-layout: article
+toc: false
+labdate: Summer 2026
+labdate-end: 2026-08
+---
