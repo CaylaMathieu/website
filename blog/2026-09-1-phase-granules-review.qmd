@@ -1,6 +1,6 @@
 ---
 title: Opinion article publication
-subtitle: Differentiation granules, a dynamic regulator of T. brucei development
+subtitle: More than just a phase - the essential role of condensates in Trypanosoma brucei survival
 author: Mathieu Cayla
 date: 2026-09-01
 categories:
