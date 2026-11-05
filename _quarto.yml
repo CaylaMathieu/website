@@ -35,7 +35,7 @@ website:
     location: navbar
     type: overlay
   page-footer:
-    left: &#169; 2026 Mathieu Cayla
+    left: 2026 Mathieu Cayla
     right: Made with [Quarto](https://quarto.org)
 
 format:

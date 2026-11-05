@@ -1,6 +1,5 @@
 ---
 title: Shashika<br> Abeysekara 
-#<!--cover-img: /assets/img/people/nathaliathompson.jpg-->
 role: DiMeN PhD Student
 alumni_name: "Shashika Abeysekara"
 categories:
@@ -8,10 +7,10 @@ categories:
   - DiMeN
 rank: 3
 page-layout: article
-#image: ../../assets/img/people/nathaliathompson_v2.png
+image: ../../assets/img/people/shashikaabeysekara.png
 toc: false
 email: qpg533@york.ac.uk
-orcid:
+orcid: 0009-0004-5661-5976
 labdate: "2026 Nov."
 labdate-end:
 ---

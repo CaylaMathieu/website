@@ -4,7 +4,13 @@ title: Publications
 #subtitle: Our contribution
 ---
 
+### 2026
+* McWilliam, K.R., D’Archivio, S., Rojas, F., Mendive-Tapia, L., Dluzniewska, O., Spanos, C., Kim, P., **Cayla, M.**, Vendrell, M., Gadelha, C., Matthews, K.R., 2026. AKT-like kinase regulates early steps in the trypanosoma brucei quorum sensing signalling pathway. BioRxiv.  https://doi.org/10.64898/2026.10.13.758553
+* Aye, H. M., **Cayla, M.** & Faria, J. R. C. More than just a phase: the essential role of condensates in Trypanosoma brucei survival. Trends Parasitol. https://doi.org/10.1016/j.pt.2026.08.004 (2026) doi:10.1016/j.pt.2026.08.004.
+
+
 ### 2024
+* Oldrieve, G.R., Venter, F., **Cayla, M.**, Verney, M., Hébert, L., Geerts, M., Van Reet, N., Matthews, K.R., 2024. Mechanisms of life cycle simplification in African trypanosomes. Nat. Commun. 15, 10485. https://doi.org/10.1038/s41467-024-54555-w
 * **_Cayla, M._**, Spanos C., McWilliam K., Waskett  E., Rappsilber J., Matthews K.R., 2024. Differentiation granules, a dynamic regulator of T. brucei development. Nat Commun 15, 2972 (2024). https://doi.org/10.1038/s41467-024-47309-1
 
 ### 2022

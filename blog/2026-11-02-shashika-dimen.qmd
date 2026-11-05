@@ -1,0 +1,16 @@
+---
+title: Welcome Shashika
+subtitle: DiMeN PhD student
+author: Mathieu Cayla
+date: 2026-11-02
+categories:
+  - lab member
+  - phd
+slug: team
+page-layout: article
+image: ../../assets/img/DiMeN.png
+---
+
+We are delighted to welcome [Shashika](../team/2026-11-05-ShashikaAbeysekara.qmd) as a new DiMeN PhD student co-supervised with [Dr. Pegine Walrad](https://www.york.ac.uk/biology/research/infection-immunity/pegine-walrad/).
+
+Shashika's project will be to investigate the role and regulation of biomolecular condensates enabling kinetoplastid parasites host adaptation and differentiation !

@@ -1,0 +1,18 @@
+---
+title: Opinion article publication
+subtitle: Differentiation granules, a dynamic regulator of T. brucei development
+author: Mathieu Cayla
+date: 2026-09-01
+categories:
+  - publication
+  - opinion
+  - biomolecular condensate
+  - Trends in Parasitology
+slug: condensate
+page-layout: article
+image: ../../assets/img/trendsinparasito.png
+---
+
+In this opinion article, we argue that kinetoplastid parasites unconventional biology renders them valuable models for understanding spatial regulation of gene expression. We propose that they offer a unique lens through which to explore the functional limits of biomolecular condensates and other membraneless organelles as ‘regulatory hubs’. We propose a broader investigation into whether these organisms utilise conserved condensates with divergent molecular compositions or entirely novel assemblies to drive their life cycle, pathogenesis, and immune evasion. [Trends in Parasitology](https://www.sciencedirect.com/science/article/pii/S1471492226002321).
+
+DOI: 10.1016/j.pt.2026.08.004
