@@ -1,0 +1,13 @@
+---
+title: Veronica Merryman-Simpson
+alumni_name: Veronica Merryman-Simpson
+role: Integrated<br>Master
+categories:
+  - master
+  - past
+rank: 4
+page-layout: article
+toc: false
+labdate: 2026/2027
+labdate-end:
+---

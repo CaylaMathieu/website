@@ -1,0 +1,29 @@
+---
+title: Shashika<br> Abeysekara 
+#<!--cover-img: /assets/img/people/nathaliathompson.jpg-->
+role: DiMeN PhD Student
+alumni_name: "Shashika Abeysekara"
+categories:
+  - PhD student
+  - DiMeN
+rank: 3
+page-layout: article
+#image: ../../assets/img/people/nathaliathompson_v2.png
+toc: false
+email: qpg533@york.ac.uk
+orcid:
+labdate: "2026 Nov."
+labdate-end:
+---
+
+### Email address: 
+
+qpg533@york.ac.uk
+
+### Post: 
+
+DiMeN DTP PhD student
+
+### Start date: 
+
+November 2026   
